@@ -12,5 +12,6 @@ We will be using pytube library for this purpose, and its features are listed be
 * Extensively Documented Source Code
 * No Third-Party Dependencies
 
-To install from official reprository write this command :- 
+To install from official reprository write this command :-
+
 `python -m pip install git+https://github.com/pytube/pytube`
